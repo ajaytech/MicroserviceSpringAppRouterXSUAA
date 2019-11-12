@@ -6,7 +6,10 @@
 ![UI5CN Course](https://thinkific-import.s3.amazonaws.com/17035/Ieao7C5YQOq5YiDdQyht_scp-professional-devimage.jpg)
 
 ## Steps for Running App: 
-* Step 1: Git Clone
+* Step 1: Git Clone:
+```
+git clone <URL of Repo>
+```
 * Step 2: Go inside the folder where pom.xml file is present(in Spring Boot App)
 * Step 3: Execute Command to Create war file for Java Spring Boot
 ```

@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "source": "^/java",
+      "target": "/",
+      "destination": "spring_app"
+    }
+  ]
+}
